@@ -1,7 +1,3 @@
-"""
-Главный файл запуска проекта детекции болезни Паркинсона
-"""
-
 import torch
 import numpy as np
 import pandas as pd
